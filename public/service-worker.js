@@ -3,15 +3,11 @@ const DATA_CACHE_NAME = "data-cache-v1";
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
-  "/favicon.ico",
   "/manifest.webmanifest",
   "/style.css",
   "/assets/js/loadImages.js",
-  "/icons/icon-72x72.png",
-  "/assets/images/icons/icon-144x144.png",
-  "/assets/images/icons/icon-152x152.png",
-  "/assets/images/icons/icon-192x192.png",
-  "/assets/images/icons/icon-384x384.png",
+  "/icons/icon-152x152.png",
+  "/icons/icon-192x192.png",
 ];
 
 // install
