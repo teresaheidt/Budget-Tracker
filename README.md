@@ -17,6 +17,13 @@ This application offers the user the ability to update and track their budget wh
 Express, Mongoose, Node.js
 
 ## Imgs
+This is how th application looks online.
+
+![screenshot](public/imgs/online.png)
+
+This is the application working offline.
+
+![screenshot](public/imgs/offline.png)
 
 ## Links
 [Link to Heroku](https://budgetttracker.herokuapp.com/)
