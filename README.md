@@ -19,11 +19,11 @@ Express, Mongoose, Node.js
 ## Imgs
 This is how th application looks online.
 
-![screenshot](public/imgs/online.png)
+![screenshot](public/icons/imgs/online.png)
 
 This is the application working offline.
 
-![screenshot](public/imgs/offline.png)
+![screenshot](public/icons/imgs/offline.png)
 
 ## Links
 [Link to Heroku](https://budgetttracker.herokuapp.com/)
