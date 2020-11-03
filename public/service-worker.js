@@ -3,7 +3,7 @@ const DATA_CACHE_NAME = "data-cache-v1";
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
-  "/manifest.webmanifest",
+  "/manifest.json",
   "/style.css",
   "/icons/icon-152x152.png",
   "/icons/icon-192x192.png",
